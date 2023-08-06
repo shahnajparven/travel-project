@@ -20,10 +20,8 @@ sudo npm i -g yarn
 
 2. Install `eslint` and `prettier` extension in your `vscode`.
 
-3. Install `Redux DevTools` extension on your browser. Here is the link for `chrome` <a href="https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd" target="_blank">Redux DevTools</a>.
+3. Clone project on your local machine by running `git@github.com:shahnajparven/travel-project.git`
 
-4. Clone project on your local machine by running `git@github.com:shahnajparven/travel-project.git`
+4. Go to the project directory `ecommerce-fe` and run `yarn` then `yarn prepare`.
 
-5. Go to the project directory `ecommerce-fe` and run `yarn` then `yarn prepare`.
-
-6. Finally run `yarn dev` to start the dev server.
+5. Finally run `yarn dev` to start the dev server.
